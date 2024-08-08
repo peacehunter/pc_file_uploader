@@ -1,5 +1,5 @@
 
-# pc_file_uploader
+# PC File Uploader
 
 This is a simple Python script for transferring files from a PC or smartphone to another PC.
 
